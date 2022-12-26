@@ -60,11 +60,11 @@ disqus_username: keeploading
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: ae47d898c3d118b467be                            #生成的clientID
-  clientSecret: c30e8df95d413ec73785dea5b4237424165f77c7    #生成的clientSecret
-  repo: flyingwzb.github.io    #仓库名称
-  owner: flyingwzb    #github用户名
-  admin: flyingwzb
+  clientID: a645c092fc5dba0c02af                            #生成的clientID
+  clientSecret: fbcbf073bde90c2f6d7f5f2f6b481ce4b1ce5b33    #生成的clientSecret
+  repo: LiuOI.github.io    #仓库名称
+  owner: LiuOI    #github用户名
+  admin: LiuOI
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

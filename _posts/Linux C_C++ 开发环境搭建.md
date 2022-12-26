@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      Linux C++开发环境搭建
+subtitle:   
+date:       2022-12-26
+author:     Keep Loading
+header-img: img/post-bg-article.jpg
+catalog: true
+tags:
+    - Linux
+---
 <a name="vuACD"></a>
 # 开发软件一览
 1. ubuntu 14.04 LTS 

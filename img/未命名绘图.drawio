@@ -100,7 +100,7 @@
         <mxCell id="S02AcgBKYn6hKlUdRPTP-14" value="+ set_msg_id(const uint32_t id): void" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="78961159f06e98e8-43">
           <mxGeometry y="252" width="310" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="S02AcgBKYn6hKlUdRPTP-15" value="+ decode(const MediaJson &amp;amp;json): bool" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="78961159f06e98e8-43">
+        <mxCell id="S02AcgBKYn6hKlUdRPTP-15" value="+ set_msg_id(): void" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="78961159f06e98e8-43">
           <mxGeometry y="278" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="S02AcgBKYn6hKlUdRPTP-16" value="+ decode(const MediaJson &amp;amp;json): bool" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="78961159f06e98e8-43">

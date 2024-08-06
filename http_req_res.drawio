@@ -503,6 +503,12 @@
         <mxCell id="BICUtr6SKWms27QiwE2e-168" value="+ gen_res_json(std::string config_file): std::string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="BICUtr6SKWms27QiwE2e-165">
           <mxGeometry y="34" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BICUtr6SKWms27QiwE2e-171" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BICUtr6SKWms27QiwE2e-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1120" y="680" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
